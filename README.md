@@ -3,7 +3,7 @@
 - **Problem Statement** - *On-Device Fine-Tuning Framework for Billion+ Parameter scale LLMs*
 - **Team name** - *XOR*
 - **Team members (Names)** - *Manan Bhansali*, *Aditya Chourasia*, *Kritagya Singh*
-- **Demo Video Link** - *(Link to your public or unlisted YouTube video will be added here)*
+- **Demo Video Link** - *[**Youtube Link**](https://youtu.be/DX-BswADDhk?si=yd1s4n1JXtZ026Jk)*
 
 
 ### Project Artefacts
