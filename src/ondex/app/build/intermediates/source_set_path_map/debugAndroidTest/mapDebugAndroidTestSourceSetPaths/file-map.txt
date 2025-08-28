@@ -1,0 +1,6 @@
+com.ruckus.ondex.test.app-annotation-experimental-1.4.0-0 C:\Users\bhans\.gradle\caches\8.9\transforms\3d62dc1ed0b86580583745bb3cd3dbf1\transformed\annotation-experimental-1.4.0\res
+com.ruckus.ondex.test.app-core-1.5.0-1 C:\Users\bhans\.gradle\caches\8.9\transforms\93e44e67f30083de9b832edbad46d757\transformed\core-1.5.0\res
+com.ruckus.ondex.test.app-androidTest-2 C:\Users\bhans\AndroidStudioProjects\ondex\app\build\generated\res\resValues\androidTest\debug
+com.ruckus.ondex.test.app-mergeDebugAndroidTestResources-3 C:\Users\bhans\AndroidStudioProjects\ondex\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ruckus.ondex.test.app-mergeDebugAndroidTestResources-4 C:\Users\bhans\AndroidStudioProjects\ondex\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ruckus.ondex.test.app-debugAndroidTest-5 C:\Users\bhans\AndroidStudioProjects\ondex\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

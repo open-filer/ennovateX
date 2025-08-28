@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.pytorch:executorch-android:0.7.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/053067b793ffc6cee4e0410b573bfd94/transformed/executorch-android-0.7.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/053067b793ffc6cee4e0410b573bfd94/transformed/executorch-android-0.7.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pytorch/executorch-android/0.7.0/5ceb13ea311e373256d14bb0e88954282e45db03/executorch-android-0.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pytorch/executorch-android/0.7.0/86a96beafbdd2205651298a8d6a645e7650b1c9/executorch-android-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.djl.huggingface:tokenizers:0.33.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="ai.djl.huggingface" artifactId="tokenizers" version="0.33.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.djl.huggingface/tokenizers/0.33.0/31d3162a08d75f811667ec0aa6e4fe4d075efe24/tokenizers-0.33.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.djl.huggingface/tokenizers/0.33.0/b3207d673b3f6f2765893c8861f43227f6a0d088/tokenizers-0.33.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.djl.huggingface/tokenizers/0.33.0/9d32121a9ce9bb8eb63151ab7dabf7b9fa88b15c/tokenizers-0.33.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.djl:api:0.33.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="ai.djl" artifactId="api" version="0.33.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.djl/api/0.33.0/27a1370a12444773b07d5f867bebd0fb60398b85/api-0.33.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.djl/api/0.33.0/eedb82fd53f086a862ab6f5c025dfa28fdbce101/api-0.33.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.djl/api/0.33.0/971d717f1c01449a2a083cd157c68072b90a6640/api-0.33.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
